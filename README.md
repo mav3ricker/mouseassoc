@@ -14,8 +14,12 @@ Optional GUI generator for interactive configuration
 Lightweight batch/script-based architecture
 Audio feedback for configuration confirmation
 Portable and hardware-independent design
+<br>
+<br>
 Requirements
 A mouse capable of assigning extra buttons to keyboard keys (typically numpad keys via vendor software or driver utility)
+<br>
+<br>
 Installation
 Assign extra mouse buttons to numeric keypad keys using your mouse configuration software.
 Edit the input_*.txt files to match the assigned numpad mappings (e.g., n1 for Numpad 1).
