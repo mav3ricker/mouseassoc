@@ -45,20 +45,20 @@ Multi Mode: Combined input/output triggering system
 Modes can be switched during runtime for adaptive control behavior.
 
 Hotkeys (System Control)
-Ctrl + Alt + Shift + T — Toggle Turbo Mode
-Ctrl + Alt + Shift + H — Toggle Hold Mode
-Ctrl + Alt + Shift + M — Toggle Multi Mode
-Ctrl + Alt + Shift + I — Stop MouseAssoc
-Ctrl + Alt + Shift + U — Restart MouseAssoc
-Ctrl + Alt + Shift + Y — Open Profile Creator
-Ctrl + Alt + Shift + N — Open Installation Directory
-Ctrl + Alt + Shift + 9 — Start Service Mode
-Ctrl + Alt + Shift + 0 — Stop Service Mode
-Ctrl + Alt + Shift + 7 — Open Service Configuration
-Ctrl + Alt + Shift + J — Check Button Registry
-Ctrl + Alt + Shift + O — Open Default GUI
-Ctrl + Alt + Shift + L — Open GUI Generator
-Ctrl + Alt + Shift + K — Open Hotkey Reference
+Ctrl + Alt + Shift + T — Toggle Turbo Mode<br>
+Ctrl + Alt + Shift + H — Toggle Hold Mode<br>
+Ctrl + Alt + Shift + M — Toggle Multi Mode<br>
+Ctrl + Alt + Shift + I — Stop MouseAssoc<br>
+Ctrl + Alt + Shift + U — Restart MouseAssoc<br>
+Ctrl + Alt + Shift + Y — Open Profile Creator<br>
+Ctrl + Alt + Shift + N — Open Installation Directory<br>
+Ctrl + Alt + Shift + 9 — Start Service Mode<br>
+Ctrl + Alt + Shift + 0 — Stop Service Mode<br>
+Ctrl + Alt + Shift + 7 — Open Service Configuration<br>
+Ctrl + Alt + Shift + J — Check Button Registry<br>
+Ctrl + Alt + Shift + O — Open Default GUI<br>
+Ctrl + Alt + Shift + L — Open GUI Generator<br>
+Ctrl + Alt + Shift + K — Open Hotkey Reference<br>
 Design Philosophy
 
 MouseAssoc is built as an open and modular input mapping framework. Instead of relying on fixed hardware-specific drivers, it abstracts mouse input into a universal configuration layer, allowing complete customization through lightweight external files and scripts.
