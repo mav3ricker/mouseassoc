@@ -44,7 +44,7 @@ Multi Mode: Combined input/output triggering system
 
 Modes can be switched during runtime for adaptive control behavior.
 
-Hotkeys (System Control)
+Hotkeys (System Control)<br>
 Ctrl + Alt + Shift + T — Toggle Turbo Mode<br>
 Ctrl + Alt + Shift + H — Toggle Hold Mode<br>
 Ctrl + Alt + Shift + M — Toggle Multi Mode<br>
