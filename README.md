@@ -64,12 +64,14 @@ Ctrl + Alt + Shift + O — Open Default GUI<br>
 Ctrl + Alt + Shift + L — Open GUI Generator<br>
 Ctrl + Alt + Shift + K — Open Hotkey Reference<br>
 <br>
+<br>
 Design Philosophy
 
 MouseAssoc is built as an open and modular input mapping framework. Instead of relying on fixed hardware-specific drivers, it abstracts mouse input into a universal configuration layer, allowing complete customization through lightweight external files and scripts.
 
 It is particularly useful for users who require advanced input control, rapid reconfiguration, or extended functionality beyond standard mouse software limitations.
-
+<br>
+<br>
 Optional Components
 pressbtnturbo.exe: Enables automated repeated key triggering without sustained input hold behavior.
 GUI Module (mouseassoc.htm): Provides visual configuration and profile management.
@@ -78,6 +80,8 @@ Compatibility Notes
 Designed to be compatible with a wide range of mouse hardware
 Works alongside games and applications requiring customizable input
 Requires initial manual mapping setup via numpad assignment
+<br>
+<br>
 Summary
 
 MouseAssoc provides a flexible, script-driven input automation framework that extends standard mouse functionality into a fully customizable control system. It is designed for users who require precision input mapping, runtime reconfiguration, and multi-mode input behavior in a lightweight and portable form.
