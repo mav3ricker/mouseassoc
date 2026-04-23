@@ -59,6 +59,7 @@ Ctrl + Alt + Shift + J — Check Button Registry<br>
 Ctrl + Alt + Shift + O — Open Default GUI<br>
 Ctrl + Alt + Shift + L — Open GUI Generator<br>
 Ctrl + Alt + Shift + K — Open Hotkey Reference<br>
+<br>
 Design Philosophy
 
 MouseAssoc is built as an open and modular input mapping framework. Instead of relying on fixed hardware-specific drivers, it abstracts mouse input into a universal configuration layer, allowing complete customization through lightweight external files and scripts.
@@ -76,3 +77,7 @@ Requires initial manual mapping setup via numpad assignment
 Summary
 
 MouseAssoc provides a flexible, script-driven input automation framework that extends standard mouse functionality into a fully customizable control system. It is designed for users who require precision input mapping, runtime reconfiguration, and multi-mode input behavior in a lightweight and portable form.
+
+<br>
+
+[Win10 Lastest Release](https://github.com/mav3ricker/mouseassoc/releases/tag/Setup)
